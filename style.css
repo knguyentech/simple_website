@@ -1,0 +1,28 @@
+.headers{
+background-color: green;
+display:flex;
+justify-content: space-between;
+
+}
+.sectionone{
+    background-color: aqua;
+    display:flex;
+    justify-content:space-around;
+    
+}
+.sectiontwo{
+    background-color: blue;
+}
+.info{
+    display:flex;
+    justify-content: space-around;
+}
+
+
+.sectionthree{
+    background-color: yellow;
+}
+
+.sectionfour{
+    background-color: gray;
+}
